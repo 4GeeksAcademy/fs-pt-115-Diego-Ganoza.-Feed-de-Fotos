@@ -1,0 +1,24 @@
+
+.igIcon{
+    font-size: 25px;
+}
+.modalIcon{
+    color: rgb(0, 0, 0);
+    width: 10%;
+}
+
+#nav-home img{
+    object-fit: cover;
+    object-position: center;
+    padding: 4px;
+}
+
+#nav-profile img{
+    background: blue;
+    object-fit: cover;
+    object-position: center;
+}
+
+.imageposts{
+    background: red;
+}
